@@ -131,7 +131,7 @@ C++ com bibliotecas padrão.
   
   **Gestao de Tarefas: [**Trello**](https://trello.com/invite/b/68e5c1ce20ed02c2f6e2bb4d/ATTI15ab90dcaef740834997ec586276b15bC329A935/sistema-embarcado-gestao-de-combustivel).**
   
-  **Organograma da Equipe: [**LucidChart**].**
+  **Organograma da Equipe: [**LucidChart**](https://lucid.app/lucidchart/f90498ec-df31-4c56-af00-cc8b90da409d/edit?invitationId=inv_dac3195c-d134-4262-91e4-421d83b59f71&page=L6LdhCrfnsHj#)**
 
   **Fluxograma do Sistema: [**LucidChart**](https://lucid.app/lucidchart/d3c2af38-a682-4ad4-acb9-57db9be5d397/edit?invitationId=inv_8fc6c346-72cd-4ec8-a996-219d9370b879&page=0_0#)**
   
