@@ -8,13 +8,13 @@ Sistema Computador de Bordo - Gestao de Combustivel e Performance.
 
 
 
-Índice:
+**Índice:**
 
 
 
 
 
- Descrição do Projeto:
+ **Descrição do Projeto:**
 
    Funcionalidades.
    
@@ -38,22 +38,22 @@ Sistema Computador de Bordo - Gestao de Combustivel e Performance.
 
 
 
-Descricao do Projeto
+**Descricao do Projeto**
 
-Portugues:
+**Portugues**
 Este projeto permite que o usuario estime o tempo de viagem necessario para percorrer uma determinada quilometragem, a quantidade de combustivel requerida e o custo total com combustivel.
 Nosso objetivo e facilitar os calculos essenciais para o planejamento de viagens, proporcionando uma experiencia mais segura e economica para o motorista.
 
 
 
-English
+**English**
 This project enables users to estimate the travel time required to cover a specific distance, the amount of fuel needed, and the total fuel cost.
 Our goal is to simplify the essential calculations for trip planning, providing a safer and more economical experience for drivers.
 
 
 
 
-Funcionalidades Principais Implementadas:
+**Funcionalidades Principais Implementadas:**
 
   Calculo de tempo de viagem baseado em distancia e velocidade.
   Calculo de quantidade de combustivel necessaria.
@@ -68,7 +68,7 @@ Funcionalidades Principais Implementadas:
 
 
 
-Tecnologias Utilizadas:
+**Tecnologias Utilizadas:**
 
 Linguagem de Programacao:
 C++ com bibliotecas padrao.
@@ -76,27 +76,27 @@ C++ com bibliotecas padrao.
 
 
 
-Bibliotecas:
+**Bibliotecas:**
 
   iostream para entrada e saida de dados.
   cmath para calculos matematicos.
   iomanip para formatacao de output.
   string para manipulacao de texto.
 
-Ferramentas de Desenvolvimento:
+**Ferramentas de Desenvolvimento:**
 
   Compilador C++ (GCC/Clang)
   Git para controle de versao
   Editor de texto/IDE
 
-Como Executar o Projeto:
+**Como Executar o Projeto:**
 
- Pre-requisitos
+ **Pre-requisitos**
  
    Compilador C++ instalado no sistema
    Terminal ou prompt de comando
 
-Instrucoes de Compilacao:
+**Instrucoes de Compilacao:**
  
     # Compilar o projeto
     g++ -o computador_bordo main.cpp -std=c++11
@@ -105,7 +105,7 @@ Instrucoes de Compilacao:
     ./computador_bordo
 
 
-Estrutura do Projeto:
+**Estrutura do Projeto:**
 
     projeto-computador-bordo/
     |
@@ -123,9 +123,9 @@ Estrutura do Projeto:
     Evidências de Gestão:
 
 
-Evidencias de Gestao do Projeto:
+**Evidencias de Gestao do Projeto**
 
- Links para Documentacao:
+ **Links para Documentacao:**
  
   Repositorio de Codigo no GitHub.
   
@@ -139,7 +139,7 @@ Evidencias de Gestao do Projeto:
 
 
 
-Metodologia de Desenvolvimento:
+**Metodologia de Desenvolvimento:**
 
  O projeto foi desenvolvido utilizando metodologias ageis, com: 
  
@@ -149,38 +149,38 @@ Metodologia de Desenvolvimento:
   Desenvolvimento iterativo e incremental.
 
 
-Status do Projeto
+**Status do Projeto**
 
-  Versao Atual:
+  **Versao Atual:**
   O projeto encontra-se em versao basica funcional, executavel através de compiladores C++ com bibliotecas padrao.
 
 
-  Observacoes:
+  **Observacoes:**
 
    Por se tratar de um projeto desenvolvido para fins academicos e de estudo, nao ha garantia de continuidade no desenvolvimento futuro. Esta versao serve como prova de conceito e base para possiveis evolucoes.
    
 
-   Possiveis Melhorias Futuras:
+   **Possiveis Melhorias Futuras:**
 
-   1.Implementacao de interface grafica.
+   1. Implementacao de interface grafica.
    
-   2.Integracao com banco de dados para historico.
+   2. Integracao com banco de dados para historico.
    
-   3.Desenvolvimento de versao para sistemas embarcados.
+   3. Desenvolvimento de versao para sistemas embarcados.
    
-   4.Adicao de mais cidades e rotas.
+   4. Adicao de mais cidades e rotas.
    
-   5.Implementacao de algoritmos de otimizacao de rotas.
+   5. Implementacao de algoritmos de otimizacao de rotas.
    
-   6.Desenvolvimento de modulo para analise de desempenho.
+   6. Desenvolvimento de modulo para analise de desempenho.
 
 
 
- Contribuicao
+ **Contribuicao**
 
- Para Contribuir:
+ **Para Contribuir:**
   
-  Realize um fork do projeto
+  **Realize um fork do projeto
 
     Crie uma branch para sua feature (git checkout -b feature/nova-feature)
     Commit suas mudancas (git commit -m 'Adiciona nova feature')
@@ -188,17 +188,17 @@ Status do Projeto
     Abra um Pull Request
   
 
-Licenca:
+**Licenca:**
 
 Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-Contato e Informacoes
+**Contato e Informacoes**
 
-  Equipe de Desenvolvimento:
+  **Equipe de Desenvolvimento:**
   
    Antonio Vinicius Brito de Oliveira - Front-end e Back-end - vinicios03421@gmail.com
    
-  Instituicao de Ensino:
+  **Instituicao de Ensino:**
 
    [Centro Universitário Ateneu]
    
@@ -208,7 +208,7 @@ Contato e Informacoes
   
    Nome do Gerente de Projeto - Funcao - Email de contato
   
-  Historico de Versoes:
+  **Historico de Versoes:**
   
  v1.0.0 (10/2025): Versao inicial do sistema computador de bordo
  
