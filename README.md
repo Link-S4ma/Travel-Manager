@@ -163,10 +163,15 @@ Status do Projeto
    Possiveis Melhorias Futuras:
 
    1.Implementacao de interface grafica.
+   
    2.Integracao com banco de dados para historico.
+   
    3.Desenvolvimento de versao para sistemas embarcados.
+   
    4.Adicao de mais cidades e rotas.
+   
    5.Implementacao de algoritmos de otimizacao de rotas.
+   
    6.Desenvolvimento de modulo para analise de desempenho.
 
 
