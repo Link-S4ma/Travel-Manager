@@ -168,9 +168,9 @@ C++ com bibliotecas padrao.
    
    3. Desenvolvimento de versao para sistemas embarcados.
    
-   4. Adicao de mais cidades e rotas.
+   4. Adição de mais cidades e rotas.
    
-   5. Implementacao de algoritmos de otimizacao de rotas.
+   5. Implementação de algoritmos de otimização de rotas.
    
    6. Desenvolvimento de modulo para analise de desempenho.
 
@@ -192,14 +192,14 @@ C++ com bibliotecas padrao.
 
 Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-### **Contato e Informacoes**
+### **Contato e Informações**
 
   **Equipe de Desenvolvimento:**
   
    Antonio Vinicius Brito de Oliveira - Front-end e Back-end - vinicios03421@gmail.com
    Adriel de Lima Queiroz - Adriellima433@gmail.com - QA
 
-  **Instituicao de Ensino:**
+  **Instituição de Ensino:**
 
    [Centro Universitário Ateneu]
    
