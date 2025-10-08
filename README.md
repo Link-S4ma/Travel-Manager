@@ -1,18 +1,204 @@
 # Travel-Manager
-Brasilian-Portuguese-
-Esse projeto permite que o Usuário tenha uma estipulação de quanto tempo de viagem ele levara para percorrer a quilometragem informada, quantidade de combustível necessário e o quanto ele devera gastar com combustível.
 
-Nosso Objetivo é facilitar os cálculos necessários ao se planejar uma viagem.
 
-No momento o Projeto se encontra de forma bem básica, podendo ser executado somente usando compiladores da Linguagem C e suas bibliotecas.
-Por se tratar de um projeto apenas para estudo talvez não daremos continuidade.
 
-USA-English-
-This project aims to assist users in planning their trips by allowing them to estimate the time required to cover a given distance, calculate the amount of fuel needed, and determine the total fuel cost.
+Sistema Computador de Bordo - Gestao de Combustivel e Performance.
 
-Our goal is to simplify the essential calculations involved in travel planning, providing convenience and accuracy.
 
-Currently, the project is in a basic version and can only be executed using C language compilers with standard libraries.
-As this is a project developed for educational purposes, we may not continue its development.
 
+
+
+Índice:
+
+
+
+
+
+ Descrição do Projeto:
+
+   Funcionalidades.
+   
+   Tecnologias Utilizadas.
+   
+   Como Executar.
+   
+   Estrutura do Projeto.
+   
+   Evidências de Gestão.
+   
+   Desenvolvimento Futuro.
+
+   Contribuição.
+   
+   Licença.
+
+
+
+
+
+
+
+Descricao do Projeto
+
+Portugues:
+Este projeto permite que o usuario estime o tempo de viagem necessario para percorrer uma determinada quilometragem, a quantidade de combustivel requerida e o custo total com combustivel.
+Nosso objetivo e facilitar os calculos essenciais para o planejamento de viagens, proporcionando uma experiencia mais segura e economica para o motorista.
+
+
+
+English
+This project enables users to estimate the travel time required to cover a specific distance, the amount of fuel needed, and the total fuel cost.
+Our goal is to simplify the essential calculations for trip planning, providing a safer and more economical experience for drivers.
+
+
+
+
+Funcionalidades Principais Implementadas:
+
+  Calculo de tempo de viagem baseado em distancia e velocidade.
+  Calculo de quantidade de combustivel necessaria.
+  Estimativa de custos com combustivel.
+  Base de dados com 15 cidades brasileiras e distancias reais.
+  Suporte a multiplos tipos de combustivel. (Gasolina, Etanol, Diesel, Gas)
+  Sistema de alertas para combustivel insuficiente.
+  Calculo de autonomia do veiculo.
+  Estatisticas de consumo e desempenho.
+
+
+
+
+
+Tecnologias Utilizadas:
+
+Linguagem de Programacao:
+C++ com bibliotecas padrao.
+
+
+
+
+Bibliotecas:
+
+  iostream para entrada e saida de dados.
+  cmath para calculos matematicos.
+  iomanip para formatacao de output.
+  string para manipulacao de texto.
+
+Ferramentas de Desenvolvimento:
+
+  Compilador C++ (GCC/Clang)
+  Git para controle de versao
+  Editor de texto/IDE
+
+Como Executar o Projeto:
+
+ Pre-requisitos
+ 
+   Compilador C++ instalado no sistema
+   Terminal ou prompt de comando
+
+Instrucoes de Compilacao:
+ 
+    # Compilar o projeto
+    g++ -o computador_bordo main.cpp -std=c++11
+
+    # Executar o programa
+    ./computador_bordo
+
+
+Estrutura do Projeto:
+
+    projeto-computador-bordo/
+    |
+    |-- src/
+    |   |-- main.cpp (codigo fonte principal)
+    |
+    |-- docs/
+    |   |-- documentacao_tecnica.md
+    |   |-- manual_utilizacao.md
+    |
+    |-- dados/
+    |   |-- cidades.txt (base de dados de cidades)
+    |
+    |-- README.md (este arquivo)
+    Evidências de Gestão:
+
+
+Evidencias de Gestao do Projeto:
+
+ Links para Documentacao:
+ 
+  Repositorio de Codigo no GitHub.
+  Gestao de Tarefas no Trello.
+  Organograma da Equipe no LucidChart.
+  Fluxograma do Sistema no LucidChart.
+  Documentacao Completa no Google Drive.
+
+Metodologia de Desenvolvimento:
+
+ O projeto foi desenvolvido utilizando metodologias ageis, com: 
+ 
+  Controle de versao via Git/GitHub.
+  Gestao de tarefas através do Trello.
+  Documentacao continua e colaborativa.
+  Desenvolvimento iterativo e incremental.
+
+
+Status do Projeto
+
+  Versao Atual:
+  O projeto encontra-se em versao basica funcional, executavel através de compiladores C++ com bibliotecas padrao.
+
+
+  Observacoes:
+
+   Por se tratar de um projeto desenvolvido para fins academicos e de estudo, nao ha garantia de continuidade no desenvolvimento futuro. Esta versao serve como prova de conceito e base para possiveis evolucoes.
+   
+
+   Possiveis Melhorias Futuras:
+
+   1.Implementacao de interface grafica.
+   2.Integracao com banco de dados para historico.
+   3.Desenvolvimento de versao para sistemas embarcados.
+   4.Adicao de mais cidades e rotas.
+   5.Implementacao de algoritmos de otimizacao de rotas.
+   6.Desenvolvimento de modulo para analise de desempenho.
+
+
+
+ Contribuicao
+
+ Para Contribuir:
+  
+  Realize um fork do projeto
+
+    Crie uma branch para sua feature (git checkout -b feature/nova-feature)
+    Commit suas mudancas (git commit -m 'Adiciona nova feature')
+    Push para a branch (git push origin feature/nova-feature)
+    Abra um Pull Request
+  
+
+Licenca:
+
+Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+Contato e Informacoes
+
+  Equipe de Desenvolvimento:
+  
+   Antonio Vinicius Brito de Oliveira - Front-end e Back-end - vinicios03421@gmail.com
+   
+  Instituicao de Ensino:
+
+   [Centro Universitário Ateneu]
+   [Analise e desenvolvimento de sistemas/ALGORITMOS COMPUTACIONAIS]
+   [segundo Semestre/2025]
+  
+   Nome do Gerente de Projeto - Funcao - Email de contato
+  
+  Historico de Versoes:
+  
+ v1.0.0 (10/2025): Versao inicial do sistema computador de bordo
+ Funcionalidades basicas de calculo de viagem.
+ Suporte a multiplos combustiveis.
+ Base de dados de cidades brasileiras.
 
