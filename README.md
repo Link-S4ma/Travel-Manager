@@ -38,7 +38,7 @@
 
 
 
-**Descricao Geral**
+**Descrição Geral**
 
 **Portugues**
 Este projeto permite que o usuario estime o tempo de viagem necessario para percorrer uma determinada quilometragem, a quantidade de combustivel requerida e o custo total com combustivel.
