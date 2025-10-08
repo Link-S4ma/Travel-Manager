@@ -195,11 +195,11 @@ Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para ma
 
   **Equipe de Desenvolvimento:**
 
-   Amanda Silva Sena - PM (Product Manager) - anandasena@aluno.edu.br
+   Amanda Silva Sena - PM (Product Manager) - anandasena@aluno.edu.br  
    Antonio Vinicius Brito de Oliveira - QA (Quality Assurance) e Desenvolvedor (Back-end) - antoniooliveira42@aluno.uniateneu.edu.br  
-   Wesley Rauan Castro Feijó-P.M e Tech Lider - TL (Tech Leader) - wesrauan@gmail.com
-   Adriel de Lima Queiroz - Desenvolvedor (Banco de Dados) - Adriellima433@gmail.com
-   André Luís - PO (Product Owner) - andreferreira1@aluno.uniateneu.edu.br
+   Wesley Rauan Castro Feijó-P.M e Tech Lider - TL (Tech Leader) - wesrauan@gmail.com  
+   Adriel de Lima Queiroz - Desenvolvedor (Banco de Dados) - Adriellima433@gmail.com  
+   André Luís - PO (Product Owner) - andreferreira1@aluno.uniateneu.edu.br  
 
   **Instituição de Ensino:**
 
