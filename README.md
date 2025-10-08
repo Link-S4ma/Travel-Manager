@@ -96,7 +96,7 @@ C++ com bibliotecas padrao.
    Compilador C++ instalado no sistema
    Terminal ou prompt de comando
 
-**Instrucoes de Compilacao:**
+**Instruções de Compilação:**
  
     # Compilar o projeto
     g++ -o computador_bordo main.cpp -std=c++11
