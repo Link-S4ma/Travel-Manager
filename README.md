@@ -128,10 +128,16 @@ Evidencias de Gestao do Projeto:
  Links para Documentacao:
  
   Repositorio de Codigo no GitHub.
-  Gestao de Tarefas no Trello.
+  
+  Gestao de Tarefas no Trello: https://trello.com/invite/b/68e5c1ce20ed02c2f6e2bb4d/ATTI15ab90dcaef740834997ec586276b15bC329A935/sistema-embarcado-gestao-de-combustivel
+  
   Organograma da Equipe no LucidChart.
+
   Fluxograma do Sistema no LucidChart.
+  
   Documentacao Completa no Google Drive.
+
+
 
 Metodologia de Desenvolvimento:
 
