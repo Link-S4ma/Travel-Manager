@@ -196,9 +196,9 @@ Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para ma
 
   **Equipe de Desenvolvimento:**
   
-   Antonio Vinicius Brito de Oliveira - Front-end e Back-end - vinicios03421@gmail.com
-   Adriel de Lima Queiroz - Adriellima433@gmail.com - QA
-   Wesley Rauan Castro Feijó-P.M e Tech Lider - wesrauan@gmail.com -**Engenharia de Software**
+   Antonio Vinicius Brito de Oliveira - Front-end e Back-end - vinicios03421@gmail.com  
+   Adriel de Lima Queiroz - Adriellima433@gmail.com - QA  
+   Wesley Rauan Castro Feijó-P.M e Tech Lider - wesrauan@gmail.com -**Engenharia de Software**  
 
   **Instituição de Ensino:**
 
