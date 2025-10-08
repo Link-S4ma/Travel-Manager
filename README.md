@@ -127,13 +127,13 @@ C++ com bibliotecas padrão.
 
 ### **Links para Documentação:**
  
-  Repositorio de Codigo no GitHub.
+  Repositorio de Codigo: [GitHub.](https://github.com/Link-S4ma/Travel-Manager/blob/main/SISTEMA%20COMPUTADOR%20DE%20BORDO.cpp)
   
-  Gestao de Tarefas [**Trello**](https://trello.com/invite/b/68e5c1ce20ed02c2f6e2bb4d/ATTI15ab90dcaef740834997ec586276b15bC329A935/sistema-embarcado-gestao-de-combustivel).
+  **Gestao de Tarefas: [**Trello**](https://trello.com/invite/b/68e5c1ce20ed02c2f6e2bb4d/ATTI15ab90dcaef740834997ec586276b15bC329A935/sistema-embarcado-gestao-de-combustivel).**
   
-  Organograma da Equipe no [**LucidChart**].
+  **Organograma da Equipe: [**LucidChart**].**
 
-  Fluxograma do Sistema no [**LucidChart**](https://lucid.app/lucidchart/d3c2af38-a682-4ad4-acb9-57db9be5d397/edit?invitationId=inv_8fc6c346-72cd-4ec8-a996-219d9370b879&page=0_0#)
+  **Fluxograma do Sistema: [**LucidChart**](https://lucid.app/lucidchart/d3c2af38-a682-4ad4-acb9-57db9be5d397/edit?invitationId=inv_8fc6c346-72cd-4ec8-a996-219d9370b879&page=0_0#)**
   
 
 
