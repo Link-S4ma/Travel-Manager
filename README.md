@@ -196,7 +196,9 @@ Contato e Informacoes
   Instituicao de Ensino:
 
    [Centro Universitário Ateneu]
+   
    [Analise e desenvolvimento de sistemas/ALGORITMOS COMPUTACIONAIS]
+   
    [segundo Semestre/2025]
   
    Nome do Gerente de Projeto - Funcao - Email de contato
@@ -204,7 +206,10 @@ Contato e Informacoes
   Historico de Versoes:
   
  v1.0.0 (10/2025): Versao inicial do sistema computador de bordo
+ 
  Funcionalidades basicas de calculo de viagem.
+ 
  Suporte a multiplos combustiveis.
+ 
  Base de dados de cidades brasileiras.
 
