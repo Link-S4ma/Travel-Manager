@@ -205,11 +205,11 @@ Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para ma
 
    [Centro Universitário Ateneu]
    
-   [Analise e desenvolvimento de sistemas/ALGORITMOS COMPUTACIONAIS]
+
    
-   [segundo Semestre/2025]
-  
-   Nome do Gerente de Projeto - Função - Email de contato
+   
+
+
   
 ###  **Historico de Versões:**
   
