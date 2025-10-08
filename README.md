@@ -2,7 +2,7 @@
 
 
 
-## **Sistema Computador de Bordo - Gestao de Combustivel e Performance.**
+## **Sistema Computador de Bordo - Gestão de Combustivel e Performance.**
 
 
 
@@ -59,7 +59,7 @@ Our goal is to simplify the essential calculations for trip planning, providing 
   Calculo de quantidade de combustivel necessaria.
   Estimativa de custos com combustivel.
   Base de dados com 15 cidades brasileiras e distancias reais.
-  Suporte a multiplos tipos de combustivel. (Gasolina, Etanol, Diesel, Gas)
+  Suporte a multiplos tipos de combustivel. (Gasolina, Etanol, Diesel, Gás)
   Sistema de alertas para combustivel insuficiente.
   Calculo de autonomia do veiculo.
   Estatisticas de consumo e desempenho.
@@ -70,8 +70,8 @@ Our goal is to simplify the essential calculations for trip planning, providing 
 
 ### **Tecnologias Utilizadas:**
 
-Linguagem de Programacao:
-C++ com bibliotecas padrao.
+Linguagem de Programação:
+C++ com bibliotecas padrão.
 
 
 
@@ -198,6 +198,7 @@ Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para ma
   
    Antonio Vinicius Brito de Oliveira - Front-end e Back-end - vinicios03421@gmail.com
    Adriel de Lima Queiroz - Adriellima433@gmail.com - QA
+   Wesley Rauan Castro Feijó-P.M e Tech Lider - wesrauan@gmail.com 
 
   **Instituição de Ensino:**
 
