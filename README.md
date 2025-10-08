@@ -2,7 +2,7 @@
 
 
 
-##**Sistema Computador de Bordo - Gestao de Combustivel e Performance.**
+##Sistema Computador de Bordo - Gestao de Combustivel e Performance.**
 
 
 
