@@ -123,9 +123,9 @@ C++ com bibliotecas padrao.
     Evidências de Gestão:
 
 
-### **Evidencias de Gestao do Projeto**
+### **Evidencias de Gestão do Projeto**
 
-### **Links para Documentacao:**
+### **Links para Documentação:**
  
   Repositorio de Codigo no GitHub.
   
@@ -151,11 +151,11 @@ C++ com bibliotecas padrao.
 
 ### **Status do Projeto**
 
-  **Versao Atual:**
+  **Versão Atual:**
   O projeto encontra-se em versao basica funcional, executavel através de compiladores C++ com bibliotecas padrao.
 
 
-###  **Observacoes:**
+###  **Observações:**
 
    Por se tratar de um projeto desenvolvido para fins academicos e de estudo, nao ha garantia de continuidade no desenvolvimento futuro. Esta versao serve como prova de conceito e base para possiveis evolucoes.
    
@@ -176,7 +176,7 @@ C++ com bibliotecas padrao.
 
 
 
-### **Contribuicao**
+### **Contribuição**
 
  **Para Contribuir:**
   
@@ -188,7 +188,7 @@ C++ com bibliotecas padrao.
     Abra um Pull Request
   
 
-### **Licenca:**
+### **Licença:**
 
 Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para mais detalhes.
 
