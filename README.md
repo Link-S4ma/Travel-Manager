@@ -80,13 +80,13 @@ C++ com bibliotecas padrão.
 
   iostream para entrada e saida de dados.
   cmath para calculos matematicos.
-  iomanip para formatacao de output.
-  string para manipulacao de texto.
+  iomanip para formatação de output.
+  string para manipulação de texto.
 
 ### **Ferramentas de Desenvolvimento:**
 
   Compilador C++ (GCC/Clang)
-  Git para controle de versao
+  Git para controle de versão 
   Editor de texto/IDE
 
 ### **Como Executar o Projeto:**
@@ -207,11 +207,11 @@ Este projeto e distribuido sob a Licenca MIT. Consulte o arquivo LICENSE para ma
    
    [segundo Semestre/2025]
   
-   Nome do Gerente de Projeto - Funcao - Email de contato
+   Nome do Gerente de Projeto - Função - Email de contato
   
-###  **Historico de Versoes:**
+###  **Historico de Versões:**
   
- v1.0.0 (10/2025): Versao inicial do sistema computador de bordo
+ v1.0.0 (10/2025): Versão inicial do sistema computador de bordo
  
  Funcionalidades basicas de calculo de viagem.
  
